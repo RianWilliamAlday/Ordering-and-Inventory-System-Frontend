@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 
 src/pages/OwnerSales.jsx
+src/pages/Menuitems.jsx
+src/pages/OrderHistory.jsx
