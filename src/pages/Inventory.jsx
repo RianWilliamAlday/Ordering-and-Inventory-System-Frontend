@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
-import InventoryAlert from "./Inventory";
+import InventoryAlert from "./InventoryAlert.jsx";
 
 const Inventory =  ({ }) =>{
   const [stocks, setStocks] = useState([]);
