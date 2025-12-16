@@ -25,4 +25,10 @@ dist-ssr
 
 src/pages/OwnerSales.jsx
 src/pages/MenuItems.jSX
+
+src/pages/Menu.jsx
+src/pages/SalesReport.jsx
 src/pages/OrderHistory.jsx
+
+
+
