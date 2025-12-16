@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
-import InventoryAlert from "./Inventory";
+import InventoryAlert from "./InventoryAlert";
 
 const PendingOrders =  ({ }) =>{
   const [orders, setOrders] = useState([]);
